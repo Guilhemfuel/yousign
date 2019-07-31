@@ -1,0 +1,9 @@
+nelmio_api_doc:
+    documentation:
+        info:
+            title: 'Documentation API Projet YouSign'
+            description: 'La documentation pour le projet test de YouSign'
+            version: 1.0.0
+    areas:
+        default:
+            path_patterns: [ '^/api', '^/admin/.' ]
